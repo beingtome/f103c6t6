@@ -100,6 +100,9 @@ int main(void)
     HAL_Delay(100);
     HAL_Delay(100);
     HAL_Delay(100);
+    HAL_Delay(100);
+    HAL_Delay(100);
+    HAL_Delay(100);
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
